@@ -1,4 +1,4 @@
-(** Problom 1: Tail of a list *)
+(** Problem 1: Tail of a list *)
 
 let rec last (e: 'a list): 'a option = 
   match e with
